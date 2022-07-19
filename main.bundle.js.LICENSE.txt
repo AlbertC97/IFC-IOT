@@ -183,6 +183,14 @@ object-assign
  * @license MIT
  */
 
+/**
+ * lil-gui
+ * https://lil-gui.georgealways.com
+ * @version 0.16.0
+ * @author George Michael Brower
+ * @license MIT
+ */
+
 /** @license MUI v5.6.1
  *
  * This source code is licensed under the MIT license found in the
